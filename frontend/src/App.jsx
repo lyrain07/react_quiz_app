@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import AuthScreen from './components/AuthScreen';
 import { logout } from './utils/api';
-import './App.css';
+import './styles/App.css';
 
 function App() {
   const [user, setUser] = useState(null);
