@@ -32,10 +32,10 @@ REACT_APP/
 │   │   │   └── AuthScreen.jsx
 │   │   ├── styles/
 │   │   │   └── AuthScreen.css
+│   │   │   └── App.css
 │   │   ├── utils/
 │   │   │   └── api.js
 │   │   ├── App.jsx
-│   │   ├── App.css
 │   │   └── main.jsx
 │   ├── index.html
 │   └── package.json
