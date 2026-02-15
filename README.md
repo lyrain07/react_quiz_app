@@ -5,7 +5,7 @@ A full-stack math quiz game built with React and Django, featuring user authenti
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![React](https://img.shields.io/badge/React-18.x-61dafb)
 ![Django](https://img.shields.io/badge/Django-4.x-green)
-![Status](https://img.shields.io/badge/status-production--ready-success)
+![Status](https://img.shields.io/badge/status-under--development-yellow)
 
 ---
 
